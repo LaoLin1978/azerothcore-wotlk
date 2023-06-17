@@ -394,3 +394,4 @@ Install_Deb_Pack(){
 	#EOF
 	#rm -rf /etc/localtime
 	#cp /usr/share/zoneinfo/
+    rm -f /www/server/panel/data/admin_path.pl
